@@ -1,6 +1,0 @@
-quiero hacer una operación como la que defini en 
-la funcion operadores, para que al usarla con
-cada columna de la matriz Y, se opere con cada fila
-de la matriz X, y de esa manera llenar de valores
-la matriz_M.
-
